@@ -9,8 +9,8 @@ https://github.com/planetsig/ufo-reports
 Fonte del dataset sugli avvistamenti UFO
 http://www.nuforc.org/
 
-Provenienza datasete sulla popolazione americana
+Provenienza dataset sulla popolazione americana
 https://www.census.gov/data/tables/time-series/demo/popest/2010s-state-total.html
 
-Provenienza del dataset sulla sfrequenza delle parole nella lingua Inglese.
+Provenienza del dataset sulla frequenza delle parole nella lingua Inglese.
 https://www.kaggle.com/rtatman/english-word-frequency
